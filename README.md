@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohan7503
-- 👀 I’m interested in Programming, Math, AI, ML, and Sports!
-- 🌱 I’m currently learning AI and Data Science
-- 💞️ I’m looking to collaborate on Computer Science projects?
+- 🌱 CSE undergrad at Shiv Nadar University Chennai
+- 👀 I’m interested in Competitive Programming, Math, and Sports!
+- 💞️ I’m looking to collaborate on SDE projects?
 - 📫 How to reach me: Discord @Rohan_7503 #7672
 
 <!---
